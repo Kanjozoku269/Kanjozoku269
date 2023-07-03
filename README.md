@@ -11,4 +11,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Kanjozoku269)  
 
-![Profile views](https://gpvc.arturio.dev/Kanjozoku269)  
+![Profile views]([https://gpvc.arturio.dev/](https://komarev.com/ghpvc/?username=your-github-username)https://komarev.com/ghpvc/Kanjozoku269)  
