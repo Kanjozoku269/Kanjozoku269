@@ -2,12 +2,19 @@
 
 - 🌱 I’m currently learning DevOps, C && C++
 
+### Languages and tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kanjozoku269)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/kanjozoku269)  
+![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) 
+![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) 
+![JUnit](https://img.shields.io/badge/-Shell-1E7775?style=for-the-badge&logo=powershell&logoColor=#5391FE) 
+![Network](https://img.shields.io/badge/Network-1E7775?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kanjozoku269)](https://github.com/ryo-ma/github-profile-trophy)
+![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00) 
+![Github](https://img.shields.io/badge/-Github-1E7775?style=for-the-badge&logo=github&logoColor=181717) 
+![Gitlab](https://img.shields.io/badge/-gitlab-1E7775?style=for-the-badge&logo=gitlab&logoColor=FC6D26) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanjozoku269)](https://github.com/anuraghazra/github-readme-stats)
+![Nginx](https://img.shields.io/badge/-nginx-1E7775?style=for-the-badge&logo=nginx&logoColor=009639)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Kanjozoku269)  
-
+[![Telegram Badge](https://img.shields.io/badge/-kanjozoku269-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/kanjozoku269)](https://t.me/kanjozoku269)
+[![Gmail Badge](https://img.shields.io/badge/-kanjozoku269@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanjozoku269@gmail.com)](mailto:kanjozoku269@gmail.com)
