@@ -6,7 +6,6 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-1E7775?style=for-the-badge&logo=linux&logoColor=FCC624) 
 ![Bash](https://img.shields.io/badge/-Bash-1E7775?style=for-the-badge&logo=gnubash&logoColor=#000000) 
-![JUnit](https://img.shields.io/badge/-Shell-1E7775?style=for-the-badge&logo=powershell&logoColor=#5391FE) 
 ![Network](https://img.shields.io/badge/Network-1E7775?style=for-the-badge&logo=nintendonetwork&logoColor=0052CC) 
 
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00) 
